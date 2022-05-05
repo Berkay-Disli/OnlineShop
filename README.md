@@ -1,4 +1,5 @@
 # Shopping App
+PS: Code files are removed. Only images and info to showcase the app.
 An online shopping app where you can search and scroll through different products or categories. 
 
 - You can select a product to view details and price. Double clicking the product image will add it to your wishlist! 
